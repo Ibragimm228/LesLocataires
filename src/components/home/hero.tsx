@@ -35,7 +35,7 @@ export function Hero() {
 					alt='Luxurious modern apartment interior showcasing premium rental properties available through Les Locataires platform'
 					decoding='async'
 					loading='eager'
-					fetchpriority='high'
+					fetchPriority='high'
 					className='w-full h-full object-cover transition-transform duration-700 hover:scale-105'
 					srcSet='https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=768&auto=format&fit=crop&ixlib=rb-4.0.3 768w,
 							https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=1024&auto=format&fit=crop&ixlib=rb-4.0.3 1024w,

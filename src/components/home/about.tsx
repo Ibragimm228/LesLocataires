@@ -89,7 +89,7 @@ export function AboutSection() {
 									decoding='async'
 									width='2070'
 									height='700'
-									fetchpriority='high'
+									fetchPriority='high'
 								/>
 							</div>
 							
